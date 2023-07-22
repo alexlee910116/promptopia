@@ -1,0 +1,7 @@
+{
+  "name": "promptopia",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "custom"
+}
